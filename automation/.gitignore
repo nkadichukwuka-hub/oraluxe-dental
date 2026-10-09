@@ -1,0 +1,2 @@
+# n8n's own data: holds saved logins (Google, Gemini) and must never be committed
+n8n-data/

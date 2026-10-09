@@ -1,0 +1,10 @@
+# Real workflow copy (has the Sheet ID, demo Gmail and credential IDs). Public copy is oraluxe-booking-workflow.json
+*.local.json
+# n8n's own data: saved Google and Gemini logins
+automation/n8n-data/
+node_modules/
+.env*
+*.log
+
+# Private working notes, kept on this computer only
+CLAUDE.md
